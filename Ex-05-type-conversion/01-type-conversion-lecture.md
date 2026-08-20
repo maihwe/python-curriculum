@@ -241,7 +241,7 @@ This is useful for debugging: "Why isn't my math working? Oh, it's a string, not
 7. **Conversion only works** if the text is actually convertible
 8. **User input is always text**, so convert it if you need numbers
 
----
+--- 
 
 ## Why This Matters for Programs
 
